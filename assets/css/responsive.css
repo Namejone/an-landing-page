@@ -1,0 +1,217 @@
+/* Normal desktop :1200px. */
+@media (max-width: 1366px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (max-width: 1199px) {
+    h4 {
+        font-size: 20px;
+    }
+    .recent-item-img {
+        height: 228px;
+    }
+    .recent-item-content p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (max-width: 991px) {
+
+    .talk-author img {
+        height: 380px;
+        max-width: 100%;
+    }
+    .about-video-item-content a {
+        font-size: 23px;
+        line-height: 35px;
+    }
+    .works-img {
+        margin-bottom: 50px;
+    }
+    .footer-nav ul li {
+        padding: 0px 10px;
+    }
+    .footer-top {
+        padding-top: 56px;
+        padding-bottom: 59px;
+    }
+    .about-area {
+        padding: 70px 0px;
+    }
+    .talk-author-content h3 {
+        font-size: 30px;
+        line-height: 39px;
+    }
+    .header .nav-item:last-child {
+        padding: 0px 24px;
+    }
+    .header .navbar-collapse {
+        background-color: #fff;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        box-shadow: 0px 6px 5px rgba(0,0,0, 0.1);
+    }
+
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    h2 {
+        font-size: 28px;
+    }
+    h4 {
+        font-size: 24px;
+    }
+    p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .i-btn {
+        font-size: 14px;
+        padding: 14px 17px;
+    }
+    .header .navbar-brand img {
+        max-width: 49px;
+    }
+    .hero-content img {
+        margin-bottom: 20px;
+        max-width: 209px;
+    }
+    .hero-content h1 {
+        font-size: 36px;
+        line-height: 44px;
+        margin-bottom: 30px;
+    }
+    .hero-area {
+        height: 458px;
+    }
+    .hero-btns {
+        margin-bottom: 0px;
+    }
+
+    .about-area {
+        padding: 40px 0px;
+    }
+    .about-video {
+        height: 203px;
+        width: 100%;
+    }
+    .about-video-item {
+        padding: 7px 7px;
+    }
+    .about-video-item-content a {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .about-video-item-content {
+        padding-left: 8px;
+    }
+    .about-video {
+        margin-bottom: 20px;
+    }
+    .talk-area {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .talk-author img {
+        height: 146px;
+        max-width: 132px;
+    }
+    .talk-author-content h3 {
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 5px;
+    }
+    .talk-author-desc p {
+        font-size: 12px;
+        line-height: 17px;
+        margin-bottom: 0px;
+    }
+    .talk-author-content .talk-author-desc {
+        margin-bottom: 10px;
+    }
+    .talk-area .section-title {
+        margin-bottom: 5px;
+    }
+    .recent-area {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    .recent-item-content p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .works-content h2 {
+        margin-bottom: 8px;
+    }
+    .works-content ul li {
+        font-size: 16px;
+        padding: 8px 0px;
+        line-height: 1.3;
+        padding-left: 27px;
+    }
+    .works-area {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+    .work-shap-7 {
+        display: none;
+    }
+    .contact-area {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .footer-logo a img {
+        max-width: 170px;
+        margin-bottom: 10px;
+    }
+    .footer-nav ul {
+        flex-direction: column;
+    }
+    .footer-nav ul li a {
+        font-size: 16px;
+        line-height: 23px;
+        padding: 14px 0px;
+    }
+    .footer-nav ul li {
+        padding: 0px;
+    }
+    .footer-top {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .footer-bottom p {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .footer-bottom {
+        padding-top: 11px;
+        padding-bottom: 8px;
+    }
+
+    .footer-logo{
+        text-align: center;
+    }
+
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
